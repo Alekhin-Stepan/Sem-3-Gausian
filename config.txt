@@ -1,0 +1,12 @@
+fieldWidth 1000
+fieldHeight 1000
+defaultX 500.0
+defaultY 500.0
+defaultSx 20.0
+defaultSy 20.0
+defaultH 200.0
+Noise 10
+logFileNameInterface interface_logs.txt
+logFileNameControl control_logs.txt
+loggingInterfaceEnabled true
+loggingControlEnabled true
